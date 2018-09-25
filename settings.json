@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "owner": "423194335476056064",
+    "prefix": "!",
+    "description": "A bot to announce Twitch and YouTube uploads/livestreams."
+  },
+  "credentials": {
+    "token": "NDgxOTIyMjI2OTIxMjc1NDEz.DowjNQ.yn6n3DphWP3CA_vpRwZwQDvWbV0",
+    "client_id": "481922226921275413",
+    "youtube_developer_key": "AIzaSyAINh5HHGFHC7OljD0c9CK98EXGiiMWXRQ"
+  },
+  "cogs": ["discordbot.cogs.meta", "discordbot.cogs.botadmin", "cogs.greet", "cogs.youtube"]
+}
